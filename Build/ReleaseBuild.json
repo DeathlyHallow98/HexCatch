@@ -1,0 +1,13 @@
+{
+"companyName": "Umair Khalid",
+"productName": "Hexup",
+"dataUrl": "ReleaseBuild.data.unityweb",
+"wasmCodeUrl": "ReleaseBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "ReleaseBuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#382280",
+"cacheControl": {"default": "must-revalidate"}
+}
